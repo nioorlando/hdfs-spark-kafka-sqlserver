@@ -40,7 +40,8 @@ This approach is useful for bootstrapping Kafka topics with initial data or prep
 
 - **Security Configs**  
   - [`configs/kafka_client_jaas.conf`](configs/kafka_client_jaas.conf) → JAAS template for Kafka client.  
-  - [`configs/krb5.conf`](configs/krb5.conf) → Kerberos realm & domain mapping template.  
+  - [`configs/kafka-truststore.jks`](configs/kafka-truststore.jks) → Kafka TLS Secured.
+  - [`configs/krb5.conf`](configs/krb5.conf) → Kerberos realm & domain mapping template.
 
 - **Notebook (Optional)**  
   [`notebooks/UC2_Spark_Cron.ipynb`](notebooks/UC2_Spark_Cron.ipynb) – shows how to schedule the Spark job periodically with cron.
