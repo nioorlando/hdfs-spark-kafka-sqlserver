@@ -5,7 +5,7 @@ This project demonstrates how **Apache Spark (batch)** reads JSON data, applies 
 This approach is useful for bootstrapping Kafka topics with initial data or preparing data for downstream consumers.
 
 ---
-
+ 
 ## 🏗 Architecture
 <img src="images/hdfs_spark_kafka_sqlserver.jpg" alt="Spark Batch to Kafka" width="800"/>
 
