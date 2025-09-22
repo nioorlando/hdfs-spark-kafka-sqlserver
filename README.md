@@ -7,7 +7,7 @@ This approach is useful for bootstrapping Kafka topics with initial data or prep
 ---
  
 ## 🏗 Architecture
-<img src="images/hdfs_spark_kafka_sqlserver.jpg" alt="Spark Batch to Kafka" width="800"/>
+<img src="image/hdfs_spark_kafka_sqlserver.jpg" alt="Spark Batch to Kafka" width="800"/>
 
 **Flow:**
 1. **Source JSON** → input dataset (e.g. `id:int`, `name:string`).  
