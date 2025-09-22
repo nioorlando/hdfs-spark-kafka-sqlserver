@@ -1,0 +1,14 @@
+{
+  "schema": {
+    "type": "struct",
+    "fields": [
+      {"field": "id", "type": "int32", "optional": false},
+      {"field": "name", "type": "string", "optional": true}
+    ],
+    "optional": false
+  },
+  "payload": {
+    "id": 1,
+    "name": "ALICE"
+  }
+}
