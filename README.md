@@ -72,6 +72,4 @@ hdfs-spark-kafka-sql-server/
 - [`sample_data/input.jsonl`](sample_data/input.jsonl) → source JSON file.  
 - [`sample_data/output_envelope.json`](sample_data/output_envelope.json) → example schemaful envelope published to Kafka.
 
-**Input JSON (placed in `/uc2/<username>/uc2_src`):**
-
 
